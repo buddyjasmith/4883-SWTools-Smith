@@ -11,7 +11,7 @@ IntelliJ WebStorm
 <img src ="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_1513182511/webstorm.png" alt="Webstorm Icon" width="100" height="100">
 
 I've been using WebStorm over the break, it's really pretty cool.  WebStorm is a javascript ide.  You can develop React, React-Native, angularjs, Express, Cordova, Ionic, Yeoman, Vue.js, Dart. WebStorm has a  student version that is good for a year.  Along with WebStorm, students get access to the entire IntelliJ suite of tools.
-[WebStorm]("https://www.jetbrains.com/webstorm/")
+[WebStorm](https://www.jetbrains.com/webstorm/ "WebStorm")
 
 
 Electron
