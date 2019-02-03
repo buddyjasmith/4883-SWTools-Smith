@@ -1,6 +1,6 @@
 from beautifulscraper import BeautifulScraper
 from pprint import pprint
-scraper = BeautifulScraper()
+
 import os
 import json
 from time import sleep
