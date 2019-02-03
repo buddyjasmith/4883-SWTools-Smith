@@ -9,7 +9,7 @@ from time import sleep
 beauty = BeautifulScraper()
 url = "http://www.nfl.com/schedules/"
 years = list(range(2009, 2019))
-gameTypes = ['PRE','REG','POST']
+
 weeks = list(range(1, 17))
 preWeeks = list(range(1, 5))
 postWeeks = list(range(1,2))
@@ -17,7 +17,6 @@ gameids = {'PRE':{}, 'REG':{},'POST':{}}
 
 
 for year in years:
-
     gameids["PRE"][year] = {}
     for preWeek in preWeeks:
         gameids['PRE'][year][preWeek] =[]
@@ -46,13 +45,11 @@ for year in years:
     newUrl = url + '%d/POST' % (year)
     gameids['POST'][year]=[]
     page = beauty.go(newUrl)
-    contents = page.find_all(
-        'div', {'class': 'schedules-list-content'})
+    contents = page.find_all('div', {'class': 'schedules-list-content'})
 
     for content in contents:
         gameids['POST'][year].append(content['data-gameid'])
-
-        sleep(0.02)
+        sleep(0.05)
 
 with open('gameids.json','w') as outfile:
     json.dump(gameids,outfile)
