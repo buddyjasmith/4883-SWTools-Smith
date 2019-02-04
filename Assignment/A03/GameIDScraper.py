@@ -1,3 +1,7 @@
+'''
+Buddy Smith
+Description: Collection NFL game ids and stores result in json file
+'''
 from beautifulscraper import BeautifulScraper
 from pprint import pprint
 
@@ -9,8 +13,7 @@ from time import sleep
 beauty = BeautifulScraper()
 url = "http://www.nfl.com/schedules/"
 years = list(range(2009, 2019))
-
-weeks = list(range(1, 18))
+weeks = list(range(1, 18)) # 17 weeks in season
 preWeeks = list(range(1, 5))
 postWeeks = list(range(1,2))
 gameids = {'PRE':{}, 'REG':{},'POST':{}}
@@ -21,18 +24,15 @@ for year in years:
     for preWeek in preWeeks:
         gameids['PRE'][year][preWeek] =[]
         newURL = url + "%d/PRE%d" %(year,preWeek)
-
         page = beauty.go(newURL)
         contents = page.find_all('div',{'class':'schedules-list-content'})
-
         for content in contents:
             gameids['PRE'][year][preWeek].append(content['data-gameid'])
-
             sleep(.05)
+            
     gameids['REG'][year]={}
 
     for week in weeks:
-
         gameids['REG'][year][week] = []
         newURL = url + "%d/REG%d" %(year,week)
         page = beauty.go(newURL)
