@@ -1,7 +1,17 @@
-'''
-Buddy Smith
-Description: Collection NFL game ids and stores result in json file
-'''
+
+"""
+Course: cmps 4883
+Assignemt: A03
+Date: 2/04/19
+Github username: buddyjasmith
+Repo url: https://github.com/buddyjasmith/4883-SWTools-Smith/edit/master/Assignment/A03/
+Name: Buddy Smith
+Description: 
+    Using beautifulscraper, football game ids are scraped form NFL.com. The IDs are stored
+    in the dict gameids.
+
+"""
+
 from beautifulscraper import BeautifulScraper
 from pprint import pprint
 
@@ -23,11 +33,11 @@ for year in years:
     gameids["PRE"][year] = {}
     for preWeek in preWeeks:
         gameids['PRE'][year][preWeek] =[]
-        newURL = url + "%d/PRE%d" %(year,preWeek)
-        page = beauty.go(newURL)
-        contents = page.find_all('div',{'class':'schedules-list-content'})
+        newURL = url + "%d/PRE%d" %(year,preWeek)           #create new URL
+        page = beauty.go(newURL)                            #go to new url
+        contents = page.find_all('div',{'class':'schedules-list-content'}) #collect contents
         for content in contents:
-            gameids['PRE'][year][preWeek].append(content['data-gameid'])
+            gameids['PRE'][year][preWeek].append(content['data-gameid']) #append id with gameid
             sleep(.05)
             
     gameids['REG'][year]={}
@@ -46,7 +56,7 @@ for year in years:
     gameids['POST'][year]=[]
     page = beauty.go(newUrl)
     contents = page.find_all('div', {'class': 'schedules-list-content'})
-
+    # Traversal of weeks is not needed..  Stored as POST
     for content in contents:
         gameids['POST'][year].append(content['data-gameid'])
         sleep(0.05)
