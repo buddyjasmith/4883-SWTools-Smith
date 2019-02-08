@@ -1,12 +1,20 @@
-'''
-    Name:Buddy Smith
-    Project:Assignment 3 (Collect Game Stats)
-    2/9/19
-    Description:This program collects data from scraped gameid in a json file.
+
+
+"""
+Course: cmps 4883
+Assignemt: A03
+Date: 2/09/19
+Github username: buddyjasmith
+Repo url: https://github.com/buddyjasmith/4883-SWTools-Smith/edit/master/Assignment/A03/
+Name: Buddy Smith
+Description: 
+   This program collects data from scraped gameid in a json file.
                 a new directory is created and collected game data is stored in 
                 the created director '/Data'. For each gameid a new json file is 
                 created for later data interpretation.
-'''
+
+"""
+
 
 import os
 import json
