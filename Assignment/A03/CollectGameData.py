@@ -1,3 +1,13 @@
+'''
+    Name:Buddy Smith
+    Project:Assignment 3 (Collect Game Stats)
+    2/9/19
+    Description:This program collects data from scraped gameid in a json file.
+                a new directory is created and collected game data is stored in 
+                the created director '/Data'. For each gameid a new json file is 
+                created for later data interpretation.
+'''
+
 import os
 import json
 import urllib.request
@@ -18,8 +28,10 @@ with open('gameids.json') as f:
 
 #Iterate through json structure and collect gameID and URL to download data.
 #Keys and values are store in allIDS.
+#Kinda redundant to store allIDS[id]=newURL, but my internet connection stinks
+#I wanted to verify and redownload missed files
 for gameType, data in collection.items():
-            # Get preseason games
+            # Disregard PreSeason Game, only interested in Reg and Post
             if gameType == 'PRE':
                 continue
             elif gameType == 'REG':
@@ -27,7 +39,7 @@ for gameType, data in collection.items():
                     for week, ids in weeks.items():
                         for id in ids:
                             newURL = url + '%s/%s_gtd.json' % (id, id)
-                            allIDS[id] = newURL
+                            allIDS[id] = newURL                 #store gameid and new URL in allIDS
             elif gameType == 'POST':
                 for year, ids in data.items():
                     for id in ids:
@@ -45,6 +57,7 @@ for key, value in allIDS.items():
 # End for loop
 
 #Attempt to redownload missed addresses
+#Otherwise print successful if all were downloaded without error
 if len(missedIDS) >0:
     print("These game ids were not downloaded due to error:")
     # print(missedIDS)
