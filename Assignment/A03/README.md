@@ -13,7 +13,7 @@ a new directory is created and collected game data is stored in
 the created director '/Data'. For each gameid a new json file is 
 created for later data interpretation.
 
-GameScraper.py
+scrape_game_ids.py
 =========
 Using beautifulscraper, football game ids are scraped form NFL.com. The IDs are stored
 in the dict gameids.
