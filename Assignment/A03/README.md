@@ -5,7 +5,7 @@ Buddy Smith
 
 This folder contains the assignment for Assignment 3.  
 
-CollectGameData.py
+scrape_game_data.py
 ================
 The script CollectGameData.py does the following
 This program collects data from scraped gameid in a json file.
