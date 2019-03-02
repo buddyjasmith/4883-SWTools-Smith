@@ -5,14 +5,12 @@
 
 
 //Connect to mysql
-$host = "localhost";             // because we are ON the server
-$user = "********";        // user name
+
 
 // Get username and password from slack
 // The DB username and pass not the ones
 // I sent you to log into the server.
-$password = "**************";         // password 
-$database = "******";              // database 
+require('.config.php');
 $mysqli = mysqli_connect($host, $user, $password, $database);
 
 if (mysqli_connect_errno($mysqli)) {
@@ -357,9 +355,9 @@ if($response['success']){
 else{
     echo("Error");
 }
-echo("Question 10: Rank the NFL by win loss percentage (worst first).\n");
+echo("\n\nQuestion 10: Rank the NFL by win loss percentage (worst first).\n");
 echo("Haven't finished this yet.\n");
 
-echo("Question 11:Find the top 5 most common last names in the NFL.\n");
+echo("\n\nQuestion 11:Find the top 5 most common last names in the NFL.\n");
 echo("Haven't finished this yet.\n");
 
