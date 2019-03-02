@@ -1,0 +1,132 @@
+Name: Buddy Smith
+Assignment: A04
+Date: 03/01/2019
+
+
+Question 1: Count number of teams an individual player played for.
+==================================================================
+#	PlayerID          Name                #Teams              
+0       00-0019536        S.Graham            8
+1       00-0023968        M.Spurlock          7
+2       00-0026625        B.Hoyer             6
+3       00-0026008        M.Mulligan          6
+4       00-0023482        M.Nugent            6
+5       00-0024334        B.Marshall          6
+6       00-0027763        C.Butler            6
+7       00-0028249        J.Ross              6
+8       00-0026502        R.Jean Francois     6
+9       00-0029205        T.Cadet             6
+
+
+
+Question 2: Find the players with the highest total rushing yards by year, and limit the result to top 5
+
+============================================================================================
+#	      PlayerID            Name                Year                # Yards
+0             00-0028009          D.Murray            2014                1961
+1             00-0025394          A.Peterson          2012                1875
+2             00-0030496          L.Bell              2016                1587
+3             00-0026796          A.Foster            2012                1574
+4             00-0029141          A.Morris            2012                1562
+
+
+
+Question 3: Find the bottom 5 passing players per year
+
+============================================================================================
+#	      PlayerID            Name                Year                # Yards
+0             00-0022738          C.Cooley            2009                -23
+1             00-0027770          S.Schillinger       2013                -8
+2             00-0022084          A.Boldin            2010                -6
+3             00-0023742          J.Ryan              2017                -4
+4             00-0024417          S.Koch              2015                -3
+
+
+
+Question 4: Find the top 5 players that had the most rushes for a loss.
+
+============================================================================================
+#	      PlayerID            Name                Year                # Yards
+0             00-0027029          L.McCoy             2017                -137
+1             00-0026164          C.Johnson           2012                -127
+2             00-0027029          L.McCoy             2011                -121
+3             00-0025394          A.Peterson          2015                -116
+4             00-0026164          C.Johnson           2010                -111
+
+
+
+Question 5: Find the top 5 teams with the most penalties.
+
+============================================================================================
+#	      Club                # Penalties
+1             OAK                 1287
+2             SEA                 1286
+3             LA                  1167
+4             BAL                 1159
+5             DEN                 1156
+
+
+
+Question 6: Find the average number of penalties per season.
+
+============================================================================================
+#	      Season              Total Penalties     Average Penalties
+1             2009                3167                5.9307
+2             2010                3219                6.0281
+3             2011                3377                6.3240
+4             2012                3324                6.2247
+5             2013                3245                6.0768
+6             2014                3526                6.6030
+7             2015                3672                6.8764
+8             2016                3557                6.6610
+9             2017                3524                6.5993
+10            2018                3569                6.6835
+
+
+
+Question 7: Find the Team with the least amount of average plays every year.
+
+============================================================================================
+#	      Club                Season              Average Plays
+1             CLE                 2013                103.0625
+2             PIT                 2013                103.1250
+3             CAR                 2018                103.6875
+4             OAK                 2017                103.9375
+5             MIA                 2018                104.0625
+6             TEN                 2018                104.1250
+7             TEN                 2015                104.1875
+8             WAS                 2018                104.3750
+9             JAX                 2009                104.7500
+10            LAC                 2010                104.8125
+
+
+
+Question 8: Find the top 5 players that had field goals over 40 yards.
+
+============================================================================================
+#	      Name                PlayerID            FG > 40 yards
+1             A.Vinatieri         00-0016919          112
+2             J.Tucker            00-0029597          106
+3             S.Gostkowski        00-0024333          104
+4             S.Janikowski        00-0019646          103
+5             M.Bryant            00-0020578          101
+
+
+
+Question 9: Find the top 5 players with the shortest avg field goal length.
+
+============================================================================================
+#	      Name                PlayerID            Average Length
+1             J.Hekker            00-0028872          20.0000
+2             M.Scifres           00-0022017          40.0000
+3             M.Koenen            00-0023234          24.0000
+4             S.Andrus            00-0023728          32.0000
+5             A.Pettrey           00-0027405          23.5000
+
+
+Question 10: Rank the NFL by win loss percentage (worst first).
+Haven't finished this yet.
+
+
+Question 11:Find the top 5 most common last names in the NFL.
+Haven't finished this yet.
