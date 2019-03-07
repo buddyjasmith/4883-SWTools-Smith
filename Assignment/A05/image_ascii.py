@@ -80,6 +80,8 @@ def img_to_ascii(file, out_file, font_path, font_size ):
     new_img.show()
     new_img.save(out_file,'PNG')
 
+
+
 if __name__=='__main__':
     '''
     If the correct number of arguments is given, 5, img_to_ascii is called with
