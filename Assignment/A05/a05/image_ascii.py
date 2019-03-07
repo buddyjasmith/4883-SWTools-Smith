@@ -5,7 +5,7 @@ Assignment: A04
 Desc: The program takes a photo supplied by the user, must be .png type,
       and converts it to an 'ascii-image'. The new photo is saved as
       filename + _asc_art.png. The program must be supplied with 5 arguments,
-      python3 A04.py pyramid.png ../a04/output_image/pyramid_ascii.png /usr/share/fonts/alien_mushrooms/alm_____.ttf 4
+      python3 image_ascii.py pyramid.png ../a04/output_image/pyramid_ascii.png /usr/share/fonts/alien_mushrooms/alm_____.ttf 4
 
 '''
 
@@ -86,7 +86,7 @@ if __name__=='__main__':
     parameters of the file to be converted, the font size for output, and the path
     of the font to be used. 
     Such as:
-        python3 A04.py pyramid.png ../a04/output_image/pyramid_ascii.png /usr/share/fonts/alien_mushrooms/alm_____.ttf 4
+        python3 image_ascii.py pyramid.png ../a04/output_image/pyramid_ascii.png /usr/share/fonts/alien_mushrooms/alm_____.ttf 4
     Note: Anything above a font size 4 looks terrible.  
     Input file (image to process)
     Output file name (path and name of where to save it)
