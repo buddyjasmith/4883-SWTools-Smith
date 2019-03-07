@@ -4,7 +4,7 @@ Assignment #5
 ### Description
 The program takes a photo supplied by the user, must be .png type,
 and converts it to an 'ascii-image'. The user must supply 5 parameters via the 
-terminal.
+terminal. 
 ####Parameters:
 
   - image_ascii.py

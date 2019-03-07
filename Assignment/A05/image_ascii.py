@@ -1,7 +1,7 @@
 '''
 Buddy Smith
-Date: 06/03/2019
-Assignment: A04
+Date: 06.03.2019
+Assignment: A05
 Desc: The program takes a photo supplied by the user, must be .png type,
       and converts it to an 'ascii-image'. The new photo is saved as
       filename + _asc_art.png. The program must be supplied with 5 arguments,
@@ -32,6 +32,9 @@ def img_to_ascii(file, out_file, font_path, font_size ):
     '''
     img_to_ascii()-2 parameters
     :param file: the name of the .png file to convert to ascii text
+    :param out_file: path of output file and file
+    :param font_path: path of ttf font
+    :param font_size: font size for output image
     :param font_size: the size of the font to be output to the new .png image
     :return: none
     '''
@@ -79,8 +82,6 @@ def img_to_ascii(file, out_file, font_path, font_size ):
                     canvas.text((row, col), new_char, font=fnt, fill=(r,g,b,a))
     new_img.show()
     new_img.save(out_file,'PNG')
-
-
 
 if __name__=='__main__':
     '''
