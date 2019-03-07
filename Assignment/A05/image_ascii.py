@@ -80,6 +80,7 @@ def img_to_ascii(file, out_file, font_path, font_size ):
                     r,g,b,a = pixel
                     new_char = get_char(pixel)
                     canvas.text((row, col), new_char, font=fnt, fill=(r,g,b,a))
+                    
     new_img.show()
     new_img.save(out_file,'PNG')
 
