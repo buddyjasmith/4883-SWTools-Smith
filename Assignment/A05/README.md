@@ -24,4 +24,4 @@ Execute in this order
 python3 image_ascii.py ../a05/input_image/pyramid.png ../a05/output_image/pyramid_ascii.png /usr/share/fonts/alien_mushrooms/alm_____.ttf 4
 
 #### Example output
-![alt text]("")
+![alt text](https://github.com/buddyjasmith/4883-SWTools-Smith/blob/master/Assignment/A05/output_images/pepe_asc_art.png "")
