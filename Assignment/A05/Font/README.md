@@ -1,1 +1,1 @@
-Contains the ttf font zip file
+Font used in program
