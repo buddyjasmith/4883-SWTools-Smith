@@ -52,13 +52,6 @@ def img_to_ascii(file, out_file, font_path, font_size):
         print("Incorrect font path given.")
         return
 
-    # check file path exists, else return
-    #if (os.path.isfile(out_file)):
-     #   print("Output path successfully found.")
-    #else:
-     #   print("Incorrect output file path given.  Does not exist.")
-      #  print("Exiting. Try Again.")
-       # return
 
     # load font
     font_size = int(font_size)
@@ -74,7 +67,7 @@ def img_to_ascii(file, out_file, font_path, font_size):
     img = img.load()
 
     # create new image same size
-    new_img = Image.new('RGB', (width, height), (255, 255, 255, 255))
+    new_img = Image.new('RGBA', (width, height), (255, 255, 255, 255))
     canvas = ImageDraw.Draw(new_img)
 
     print("Beginning Conversion Process")
@@ -88,7 +81,7 @@ def img_to_ascii(file, out_file, font_path, font_size):
                     canvas.text((row, col), new_char, font=fnt, fill=(r, g, b, a))
 
     new_img.save(out_file, 'PNG')
-    print("The image has been created at %s",out_file)
+
 
 if __name__ == '__main__':
     '''
