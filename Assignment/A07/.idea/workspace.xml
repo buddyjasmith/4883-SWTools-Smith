@@ -1,9 +1,1101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="67" />
-    <option name="y" value="25" />
-    <option name="width" value="927" />
-    <option name="height" value="1055" />
+  <component name="ChangeListManager">
+    <list default="true" id="7ee340c0-443a-41be-962c-167180456a56" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/emoji_collection/-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/1234.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/8ball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/ab.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/abc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/abcd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/accept.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/aerial_tramway.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/airplane.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/alarm_clock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/alien.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/ambulance.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/anchor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/angel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/anger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/angry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/anguished.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/ant.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/apple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/aquarius.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/aries.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/arrow_backward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/arrow_double_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/arrow_double_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/arrow_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/arrow_down_small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/arrow_forward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/arrow_heading_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/arrow_heading_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/arrow_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/arrow_lower_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/arrow_lower_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/arrow_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/arrow_right_hook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/arrow_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/arrow_up_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/arrow_up_small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/arrow_upper_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/arrow_upper_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/arrows_clockwise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/arrows_counterclockwise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/art.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/articulated_lorry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/astonished.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/atm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/baby.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/baby_bottle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/baby_chick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/baby_symbol.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/baggage_claim.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/balloon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/ballot_box_with_check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/bamboo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/banana.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/bangbang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/bank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/bar_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/barber.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/baseball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/basketball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/bath.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/bathtub.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/battery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/bear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/beer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/beers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/beetle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/beginner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/bell.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/bento.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/bicyclist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/bike.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/bikini.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/bird.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/birthday.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/black_circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/black_joker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/black_medium_small_square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/black_medium_square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/black_nib.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/black_small_square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/black_square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/black_square_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/blossom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/blowfish.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/blue_book.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/blue_car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/blue_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/blush.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/boar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/boat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/bomb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/book.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/bookmark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/bookmark_tabs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/books.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/boom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/boot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/bouquet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/bow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/bowling.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/bowtie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/boy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/bread.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/bride_with_veil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/bridge_at_night.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/briefcase.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/broken_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/bug.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/bulb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/bullettrain_front.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/bullettrain_side.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/bus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/busstop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/bust_in_silhouette.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/busts_in_silhouette.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/cactus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/cake.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/calendar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/calling.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/camel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/camera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/cancer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/candy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/capital_abcd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/capricorn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/card_index.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/carousel_horse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/cat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/cat2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/cd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/chart_with_downwards_trend.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/chart_with_upwards_trend.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/checkered_flag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/cherries.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/cherry_blossom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/chestnut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/chicken.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/children_crossing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/chocolate_bar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/christmas_tree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/church.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/cinema.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/circus_tent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/city_sunrise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/city_sunset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/cl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/clap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/clapper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/clipboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/clock1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/clock10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/clock1030.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/clock11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/clock1130.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/clock12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/clock1230.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/clock130.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/clock2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/clock230.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/clock3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/clock330.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/clock4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/clock430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/clock5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/clock530.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/clock6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/clock630.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/clock7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/clock730.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/clock8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/clock830.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/clock9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/clock930.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/closed_book.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/closed_lock_with_key.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/closed_umbrella.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/clubs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/cn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/cocktail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/coffee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/cold_sweat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/collision.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/computer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/confetti_ball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/confounded.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/confused.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/congratulations.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/construction.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/construction_worker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/convenience_store.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/cookie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/cool.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/cop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/copyright.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/corn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/couple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/couple_with_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/couplekiss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/cow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/cow2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/credit_card.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/crescent_moon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/crocodile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/crossed_flags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/crown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/cry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/crying_cat_face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/crystal_ball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/cupid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/curly_loop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/currency_exchange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/curry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/custard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/customs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/cyclone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/dancer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/dancers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/dango.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/dart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/dash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/date.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/de.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/deciduous_tree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/department_store.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/diamond_shape_with_a_dot_inside.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/diamonds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/disappointed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/disappointed_relieved.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/dizzy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/dizzy_face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/do_not_litter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/dog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/dog2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/dollar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/dolls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/dolphin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/door.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/doughnut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/dragon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/dragon_face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/dress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/dromedary_camel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/droplet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/dvd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/e-mail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/ear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/ear_of_rice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/earth_africa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/earth_americas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/earth_asia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/egg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/eggplant.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/eight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/eight_pointed_black_star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/eight_spoked_asterisk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/electric_plug.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/elephant.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/email.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/end.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/envelope.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/es.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/euro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/european_castle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/european_post_office.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/evergreen_tree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/exclamation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/expressionless.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/eyeglasses.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/eyes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/facepunch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/factory.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/fallen_leaf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/family.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/fast_forward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/fax.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/fearful.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/feelsgood.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/feet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/ferris_wheel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/file_folder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/finnadie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/fire.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/fire_engine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/fireworks.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/first_quarter_moon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/first_quarter_moon_with_face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/fish.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/fish_cake.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/fishing_pole_and_fish.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/fist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/five.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/flags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/flashlight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/floppy_disk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/flower_playing_cards.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/flushed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/foggy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/football.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/fork_and_knife.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/fountain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/four.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/four_leaf_clover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/fr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/free.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/fried_shrimp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/fries.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/frog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/frowning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/fu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/fuelpump.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/full_moon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/full_moon_with_face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/game_die.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/gb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/gem.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/gemini.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/ghost.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/gift.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/gift_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/girl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/globe_with_meridians.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/goat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/goberserk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/godmode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/golf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/grapes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/green_apple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/green_book.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/green_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/grey_exclamation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/grey_question.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/grimacing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/grin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/grinning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/guardsman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/guitar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/gun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/haircut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/hamburger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/hammer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/hamster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/hand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/handbag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/hankey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/hash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/hatched_chick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/hatching_chick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/headphones.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/hear_no_evil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/heart_decoration.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/heart_eyes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/heart_eyes_cat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/heartbeat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/heartpulse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/hearts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/heavy_check_mark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/heavy_division_sign.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/heavy_dollar_sign.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/heavy_exclamation_mark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/heavy_minus_sign.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/heavy_multiplication_x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/heavy_plus_sign.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/helicopter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/herb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/hibiscus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/high_brightness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/high_heel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/hocho.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/honey_pot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/honeybee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/horse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/horse_racing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/hospital.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/hotel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/hotsprings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/hourglass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/hourglass_flowing_sand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/house.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/house_with_garden.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/hurtrealbad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/hushed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/ice_cream.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/icecream.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/id.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/ideograph_advantage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/imp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/inbox_tray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/incoming_envelope.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/information_desk_person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/information_source.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/innocent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/interrobang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/iphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/it.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/izakaya_lantern.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/jack_o_lantern.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/japan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/japanese_castle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/japanese_goblin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/japanese_ogre.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/jeans.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/joy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/joy_cat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/jp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/key.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/keycap_ten.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/kimono.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/kiss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/kissing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/kissing_cat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/kissing_closed_eyes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/kissing_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/kissing_smiling_eyes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/koala.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/koko.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/kr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/large_blue_circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/large_blue_diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/large_orange_diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/last_quarter_moon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/last_quarter_moon_with_face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/laughing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/leaves.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/ledger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/left_luggage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/left_right_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/leftwards_arrow_with_hook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/lemon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/leo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/leopard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/libra.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/light_rail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/link.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/lips.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/lipstick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/lock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/lock_with_ink_pen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/lollipop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/loop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/loudspeaker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/love_hotel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/love_letter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/low_brightness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/m.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/mag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/mag_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/mahjong.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/mailbox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/mailbox_closed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/mailbox_with_mail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/mailbox_with_no_mail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/man.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/man_with_gua_pi_mao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/man_with_turban.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/mans_shoe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/maple_leaf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/massage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/meat_on_bone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/mega.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/melon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/memo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/mens.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/metal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/metro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/microphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/microscope.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/milky_way.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/minibus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/minidisc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/mobile_phone_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/money_with_wings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/moneybag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/monkey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/monkey_face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/monorail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/mortar_board.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/mount_fuji.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/mountain_bicyclist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/mountain_cableway.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/mountain_railway.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/mouse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/mouse2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/movie_camera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/moyai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/muscle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/mushroom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/musical_keyboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/musical_note.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/musical_score.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/mute.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/nail_care.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/name_badge.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/neckbeard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/necktie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/negative_squared_cross_mark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/neutral_face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/new_moon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/new_moon_with_face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/newspaper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/ng.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/nine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/no_bell.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/no_bicycles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/no_entry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/no_entry_sign.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/no_good.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/no_mobile_phones.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/no_mouth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/no_pedestrians.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/no_smoking.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/non-potable_water.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/nose.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/notebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/notebook_with_decorative_cover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/notes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/nut_and_bolt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/o.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/o2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/ocean.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/octocat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/octopus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/oden.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/office.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/ok.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/ok_hand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/ok_woman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/older_man.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/older_woman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/oncoming_automobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/oncoming_bus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/oncoming_police_car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/oncoming_taxi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/one.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/open_file_folder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/open_hands.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/open_mouth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/ophiuchus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/orange_book.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/outbox_tray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/ox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/package.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/page_facing_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/page_with_curl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/pager.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/palm_tree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/panda_face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/paperclip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/parking.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/part_alternation_mark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/partly_sunny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/passport_control.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/paw_prints.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/peach.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/pear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/pencil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/pencil2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/penguin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/pensive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/performing_arts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/persevere.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/person_frowning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/person_with_blond_hair.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/person_with_pouting_face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/pig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/pig2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/pig_nose.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/pill.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/pineapple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/pisces.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/pizza.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/plus1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/point_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/point_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/point_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/point_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/point_up_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/police_car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/poodle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/poop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/post_office.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/postal_horn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/postbox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/potable_water.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/pouch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/poultry_leg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/pound.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/pouting_cat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/pray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/princess.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/punch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/purple_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/purse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/pushpin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/put_litter_in_its_place.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/question.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/rabbit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/rabbit2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/racehorse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/radio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/radio_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/rage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/rage1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/rage2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/rage3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/rage4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/railway_car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/rainbow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/raised_hand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/raised_hands.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/raising_hand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/ram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/ramen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/rat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/recycle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/red_car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/red_circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/registered.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/relaxed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/relieved.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/repeat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/repeat_one.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/restroom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/revolving_hearts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/rewind.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/ribbon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/rice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/rice_ball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/rice_cracker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/rice_scene.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/ring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/rocket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/roller_coaster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/rooster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/rose.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/rotating_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/round_pushpin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/rowboat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/ru.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/rugby_football.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/runner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/running.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/running_shirt_with_sash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/sa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/sagittarius.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/sailboat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/sake.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/sandal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/santa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/satellite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/satisfied.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/saxophone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/school.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/school_satchel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/scissors.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/scorpius.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/scream.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/scream_cat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/scroll.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/seat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/secret.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/see_no_evil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/seedling.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/seven.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/shaved_ice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/sheep.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/shell.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/ship.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/shipit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/shirt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/shit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/shoe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/shower.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/signal_strength.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/simple_smile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/six.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/six_pointed_star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/ski.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/skull.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/sleeping.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/sleepy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/slot_machine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/small_blue_diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/small_orange_diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/small_red_triangle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/small_red_triangle_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/smile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/smile_cat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/smiley.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/smiley_cat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/smiling_imp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/smirk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/smirk_cat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/smoking.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/snail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/snake.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/snowboarder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/snowflake.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/snowman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/sob.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/soccer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/soon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/sos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/sound.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/space_invader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/spades.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/spaghetti.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/sparkle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/sparkler.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/sparkles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/sparkling_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/speak_no_evil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/speaker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/speech_balloon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/speedboat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/squirrel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/star2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/stars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/station.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/statue_of_liberty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/steam_locomotive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/stew.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/straight_ruler.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/strawberry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/stuck_out_tongue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/stuck_out_tongue_closed_eyes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/stuck_out_tongue_winking_eye.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/sun_with_face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/sunflower.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/sunglasses.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/sunny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/sunrise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/sunrise_over_mountains.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/surfer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/sushi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/suspect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/suspension_railway.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/sweat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/sweat_drops.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/sweat_smile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/sweet_potato.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/swimmer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/symbols.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/syringe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/tada.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/tanabata_tree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/tangerine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/taurus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/taxi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/tea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/telephone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/telephone_receiver.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/telescope.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/tennis.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/tent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/thought_balloon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/three.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/thumbsdown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/thumbsup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/ticket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/tiger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/tiger2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/tired_face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/tm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/toilet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/tokyo_tower.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/tomato.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/tongue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/tophat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/tractor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/traffic_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/train.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/train2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/tram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/triangular_flag_on_post.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/triangular_ruler.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/trident.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/triumph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/trolleybus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/trollface.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/trophy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/tropical_drink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/tropical_fish.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/truck.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/trumpet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/tshirt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/tulip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/turtle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/tv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/twisted_rightwards_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/two.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/two_hearts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/two_men_holding_hands.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/two_women_holding_hands.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/u5272.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/u5408.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/u55b6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/u6307.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/u6708.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/u6709.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/u6e80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/u7121.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/u7533.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/u7981.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/u7a7a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/uk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/umbrella.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/unamused.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/underage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/unlock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/us.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/v.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/vertical_traffic_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/vhs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/vibration_mode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/video_camera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/video_game.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/violin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/virgo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/volcano.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/vs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/waning_crescent_moon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/waning_gibbous_moon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/watch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/water_buffalo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/watermelon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/wave.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/wavy_dash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/waxing_crescent_moon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/waxing_gibbous_moon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/wc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/weary.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/wedding.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/whale.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/whale2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/wheelchair.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/white_check_mark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/white_circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/white_flower.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/white_large_square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/white_medium_small_square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/white_medium_square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/white_small_square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/white_square_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/wind_chime.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/wine_glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/wink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/wolf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/woman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/womans_clothes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/womans_hat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/womens.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/worried.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/wrench.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/yellow_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/yen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/yum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/zap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/zero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_collection/zzz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/match.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/match.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1317">
+              <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
+              <folding>
+                <element signature="e#324#334#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="162">
+                <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/emoji_collection/8ball.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mse</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/match.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="960" />
+    <option name="y" value="28" />
+    <option name="width" value="956" />
+    <option name="height" value="1024" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="A07" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A07" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/match.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="match" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="A07" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/match.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ee340c0-443a-41be-962c-167180456a56" name="Default Changelist" comment="" />
+      <created>1552755473828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552755473828</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="960" y="28" width="956" height="1024" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25541127" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329849" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.329849" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.329849" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/emoji_collection/8ball.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emoji_collection/rice_cracker.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emoji_collection/game_die.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="162">
+            <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/match.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1317">
+          <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
+          <folding>
+            <element signature="e#324#334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

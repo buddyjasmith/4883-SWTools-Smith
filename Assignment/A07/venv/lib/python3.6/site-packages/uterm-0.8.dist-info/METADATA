@@ -1,0 +1,49 @@
+Metadata-Version: 2.0
+Name: uterm
+Version: 0.8
+Summary: Micropython-friendly terminal
+Home-page: https://github.com/SmileyChris/uterm
+Author: Chris Beaven
+Author-email: smileychris@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: POSIX
+Classifier: Topic :: Software Development :: Embedded Systems
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Requires-Dist: docopt
+Requires-Dist: pyserial
+Requires-Dist: pyte
+
+=====
+uterm
+=====
+
+A micropython-friendly terminal.
+
+Just run ``uterm`` to start.
+
+Bring up a menu with ``esc`` where you can:
+
+- upload files
+- browse remote files (``del`` to delete)
+
+Quit from the menu or ``ctrl-a``, ``ctrl-q``.
+
+.. image:: demo.gif
+   :alt: Demo of uterm running
+
+Some basic command line functions have also been added
+(run ``uterm --help`` for details)::
+
+    uterm ls
+    uterm get FILE
+    uterm exec COMMAND
+
+
