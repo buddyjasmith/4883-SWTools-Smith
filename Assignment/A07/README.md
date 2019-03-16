@@ -1,11 +1,8 @@
 # Image Matching
-Name: Buddy Smith
-
-Class: Software Tools
-
-Assignment: A07
-
-Due: 3.15.19
+- Name: Buddy Smith
+- Class: Software Tools
+- Assignment: A07
+- Due: 3.15.19
 
 ## File
 - match.py
