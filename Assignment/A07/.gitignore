@@ -1,5 +1,4 @@
 # Don't track photo collection
 
 
-
-*.png
+/emoji-collection/
