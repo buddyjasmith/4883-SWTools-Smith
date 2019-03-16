@@ -6,7 +6,7 @@ Description: The program is passed two values:
             :param[1]: path to image to find like image
             :param[2]: collection of images to compare to param[1]
 Example:
-    python3 match.py ../A07/emoji_collection/frog.png ../A07/emoji_collection/
+    python3 match.py [image_path] [image_collection_path]
 """
 
 import sys
@@ -33,7 +33,7 @@ def mse(image_a, image_b):
 
 def compare_images(image_a, image_b):
     """
-    :Description: if images are not same dimensions, will pass
+    :Description: if images are not same dimensions, will pass in exception
     :param image_a: target image
     :param image_b: possible image
     :return: returns the structual similarity index and mse value

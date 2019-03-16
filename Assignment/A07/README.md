@@ -1,4 +1,9 @@
 # Image Matching
+Name: Buddy Smith
+
+Class: Software Tools
+
+Assignment: A07
 
 Due: 3.15.19
 
