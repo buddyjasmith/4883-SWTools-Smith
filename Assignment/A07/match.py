@@ -95,6 +95,9 @@ def main(image_path, collection_path):
     cv2.destroyAllWindows()
 
 if __name__ == "__main__":
+    """
+    Checks if sys.argv length is 3 before beginning.
+    """
     if(len(sys.argv)==3):
         main(sys.argv[1], sys.argv[2])
     else:
