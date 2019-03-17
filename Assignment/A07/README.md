@@ -15,5 +15,8 @@ python3 match.py [image_path] [image_collection_path]
 - Press Any key to exit
 
 ## Example matches
-
+![Cat]( 4883-SWTools-Smith/Assignment/A07/match_examples/cat.png)
+![Frog](
+        4883-SWTools-Smith/Assignment/A07/match_examples/frog.png
+      )
 
