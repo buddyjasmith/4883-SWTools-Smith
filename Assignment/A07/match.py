@@ -7,6 +7,8 @@ Description: The program is passed two values:
             :param[2]: collection of images to compare to param[1]
 Example:
     python3 match.py [image_path] [image_collection_path]
+    python3 match.py ../A07/emoji_collection/frog.png ../A07/emoji_collection/
+
 """
 
 import sys
@@ -66,6 +68,7 @@ def main(image_path, collection_path):
 
     # Extract file name from image_path
     extracted_file_name = os.path.basename(image_path)
+    # Source: StackOverflow. https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory
     directory = [f for f in os.listdir(collection_path) if os.path.isfile(os.path.join(collection_path, f))]
 
     # Create default values for comparisons
@@ -74,15 +77,16 @@ def main(image_path, collection_path):
     for file in directory:
         if (str(file) != extracted_file_name ):
             # collect current image and grayscale it
-            poss_im = cv2.imread(collection_path + str(file))
-            poss_img_g = cv2.cvtColor(poss_im, cv2.COLOR_BGR2GRAY)
+            poss_img = cv2.imread(collection_path + str(file))
+            poss_img_gray = cv2.cvtColor(poss_img, cv2.COLOR_BGR2GRAY)
             # compare images' gray versions and set to closest if the current candidate is more similar
-            m,s = compare_images(target, poss_img_g)
+            m,s = compare_images(target, poss_img_gray)
             if((s > match_s) and (m < match_m)):
                 print(colored("Possible Matches: %s" % str(file),'red'))
                 match_title,match_s,match_m = str(file), s, m
 
     print(colored("The closest image to %s is %s" % (extracted_file_name,match_title),'blue'))
+    # Displya matching file, open images for viewing
     match_title = collection_path + match_title
     match_title = cv2.imread(match_title, 1)
     new_target = cv2.imread(image_path, 1)
@@ -91,6 +95,7 @@ def main(image_path, collection_path):
     cv2.imshow("Target", new_target)
     cv2.imshow("Match", match_title)
     # Press any key to exit!
+    # DO NOT MANUALLY EXIT, Will Freeze!
     cv2.waitKey()
     cv2.destroyAllWindows()
 
