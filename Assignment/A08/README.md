@@ -21,4 +21,4 @@ python3 mosaic.py input_file=commies.jpg input_folder=./emojis/ size=6 output_fo
 or 
 python3 mosaic.py image.ext (default method) 
 
-####Before Photo
+For default operation: Emojis will be used at a size of 6, stored in ./output/ 
