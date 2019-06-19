@@ -1,6 +1,6 @@
 4883-SWTools-Smith
 =========================
-![Buddy Smith](/drew.jpg?)</br>
+
 
 - Buddy Smith
 - BuddyJASmith@gmail.com
